@@ -1,0 +1,68 @@
+\documentclass[11pt]{jarticle}
+
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{sty/fancyheadings}
+\usepackage{sty/sotsuron2009}
+\usepackage{here}
+\usepackage{ascmac}
+\usepackage[subrefformat=parens]{subcaption}
+\usepackage{here}
+\usepackage{cite}
+\usepackage{amsmath}
+\pagestyle{empty}
+\usepackage{bm}
+\usepackage{comment}
+\linesparpage{40}
+%\makeatletter
+%\renewcommand{\theequation}{
+%\thesection.\arabic{equation}}
+%\@addtoreset{equation}{section}
+%\makeatother
+\pagestyle{fancy}
+
+\newcommand{\argmin}{\mathop{\rm arg~min}\limits}
+
+\begin{document}
+
+\begin{comment}
+\title{
+ \LARGE
+ % 卒論和文タイトル
+ \\　\\
+ \large
+ % 卒論英文タイトル
+}
+
+\author{
+ 研究者　高専 太郎\\
+ 指導教員　中西 大輔\\　\\
+ 松江工業高等専門学校\\
+ 電子制御工学科\\　\\
+}
+
+\date{平成29年2月13日}
+
+\maketitle
+\end{comment}
+
+\thispagestyle{empty}
+\include{chapters/abstract}        % 概要
+
+\thispagestyle{empty}
+\newpage
+\tableofcontents
+\thispagestyle{empty}
+
+%章ごとに呼び出し
+
+\include{chapters/introduction}    % 緒言
+\include{chapters/sec2}            % 本文
+% 必要に応じて章を増やす，またファイル名もsec2, sec3である必要はない
+% このmain.texが置いてあるディレクトリ内にある「chapters」フォルダ以下に
+% 自分がわかりやすい名前のtexファイルを作成し，\include{chapters/*****}で
+% 呼び出せば良い
+\include{chapters/conclusion}      % 結言
+\include{chapters/acknowledgement} % 謝辞
+\include{chapters/bibliography}    % 参考文献
+
+\end{document}

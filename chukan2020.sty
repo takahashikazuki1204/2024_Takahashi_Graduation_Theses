@@ -1,0 +1,129 @@
+% "tokuron2008" document style option.
+% based on "yokoa4j_senkouka.sty"
+
+\topmargin -3mm
+\oddsidemargin -1mm
+\evensidemargin -1mm
+\headheight 0mm
+\headsep 0mm
+\parindent 1zw
+\textheight 250mm
+\textwidth 160mm
+\footskip 0mm
+\columnsep 10mm
+
+% ========================
+\def\linesparpage#1{
+\baselineskip=\textheight
+	\divide\baselineskip by #1}
+% ========================
+
+\def\affiliation#1{\gdef\@affiliation{#1}}
+\def\eaffiliation#1{\gdef\@eaffiliation{#1}}
+\def\etitle#1{\gdef\@etitle{#1}}
+\def\eauthor#1{\gdef\@eauthor{#1}}
+
+\def\abst#1{\gdef\@abst{#1}}
+\def\keywords#1{\gdef\@keywords{#1}}
+
+\def\sectionsize{\@setsize\sectionsize{10pt}\xipt\@xipt}
+
+\def\thebibliography#1{\footnotesize\section*{\large\hfil 参考文献\\[-10pt]{\hrulefill}\markboth
+ {参 考 文 献}{参 考 文 献}}\list
+ {\arabic{enumi})}{\settowidth\labelwidth{(#1)}\leftmargin\labelwidth
+ \advance\leftmargin\labelsep
+ \usecounter{enumi} \itemsep 0mm\parskip0pt\parsep0pt\partopsep0pt}
+ \def\newblock{\hskip .11em plus .33em minus .07em}
+ \sloppy
+ \sfcode`\.=1000\relax}
+\let\endthebibliography=\endlist
+
+\renewcommand{\section}{\@startsection{section}{1}{\z@}%
+   {0.5\Cvs \@plus.5\Cdp \@minus.2\Cdp}%
+   {0.01\Cvs \@plus.1\Cdp}%
+   {\reset@font\bfseries}}
+\renewcommand{\thesection}{\@arabic\c@section .}
+\renewcommand{\subsection}{\@startsection{subsection}{1}{\z@}%
+   {0.3\Cvs \@plus.5\Cdp \@minus.2\Cdp}%
+   {0.01\Cvs \@plus.1\Cdp}%
+   {\reset@font\bfseries}}
+\renewcommand{\thesubsection}{\@arabic\c@section .\@arabic\c@subsection}
+
+\def\@maketitle{%
+%  \vskip 20pt
+\begin{center}%
+\let\footnote\thanks
+  {\Large\bf \@title \par}%
+  \vskip 1pt
+  {\Large\@etitle \par}%
+  \vskip 15pt
+  {\large\@author} %\\
+  \vskip 1pt
+  {\large\@eauthor \hspace{1mm}}%
+  \vskip 15pt
+%  {\Large（\@affiliation）}
+%  \vskip 10pt
+%  {\large (\@eaffiliation) \par}%
+%  \vskip 20pt
+%\begin{minipage}{0.95\textwidth}
+%\begin{flushleft}
+%  {\large\bf Abstract}
+%  \vskip -10pt
+%\end{flushleft}
+%\@abst
+%\vskip 7pt
+%{\large\bf Keywords:~}\@keywords
+%\end{minipage}
+\end{center}%
+%\vskip 20pt
+\par}
+
+%%%%%%%% 上付きcite %%%%%%%% 
+%\makeatletter
+\def\@cite#1#2{$^{\mbox{\tiny{#1\if@tempswa , #2\fi})}}$}
+%\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\makeatletter
+%\long\def\@makecaption#1#2{%
+%\vskip\abovecaptionskip
+%\iftdir\sbox\@tempboxa{#1\hskip1zw#2}%
+%\else\sbox\@tempboxa{#1\ #2}%
+%\fi
+%\ifdim \wd\@tempboxa >\hsize
+%\iftdir #1\hskip1zw#2\relax\par
+%\else #1\ #2\relax\par\fi
+%\else
+%\global \@minipagefalse
+%\hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+%\fi
+%\vskip\belowcaptionskip}
+%\makeatother
+%%%%%%%% ()付きenumerate %%%%%%%% 
+\def\labelenumi{(\theenumi)}
+
+%%%%%%%% フォントサイズの再定義 %%%%%%%% 
+\newdimen\@Q\@Q=0.25mm
+\renewcommand{\normalsize}{
+%\@setfontsize\normalsize{\@ixpt}{18.5\@Q}
+\@setfontsize\normalsize{9pt}{18.5\@Q}
+\abovedisplayskip 9.25\@Q \@plus3\@Q \@minus3\@Q
+\abovedisplayshortskip \z@ \@plus2\@Q
+\belowdisplayshortskip 3\@Q \@plus2\@Q \@minus2\@Q
+\belowdisplayskip \abovedisplayskip
+\let\@listi\@listI}
+%\normalsize
+\renewcommand{\small}{%
+\@setfontsize\small{\@viiipt}{13\@Q}
+\abovedisplayskip 8\@Q \@plus2\@Q \@minus2\@Q
+\abovedisplayshortskip \z@ \@plus2\@Q
+\belowdisplayshortskip 3\@Q \@plus2\@Q \@minus2\@Q
+\belowdisplayskip \abovedisplayskip}
+
+\renewcommand{\footnotesize}{\@setfontsize\footnotesize{\@viipt}{2\@Q}}
+\renewcommand{\scriptsize}{\@setfontsize\scriptsize{\@vipt}{9\@Q}}
+\renewcommand{\tiny}{\@setfontsize\tiny{\@vpt}{7\@Q}}
+\renewcommand{\large}{\@setfontsize\large{\@xpt}{20\@Q}}
+\renewcommand{\Large}{\@setfontsize\Large{\@xiipt}{24\@Q}}
+\renewcommand{\LARGE}{\@setfontsize\LARGE{\@xivpt}{30\@Q}}
+\renewcommand{\huge}{\@setfontsize\huge{\@xviipt}{32\@Q}}
+\renewcommand{\Huge}{\@setfontsize\Huge{\@xxpt}{36\@Q}}
