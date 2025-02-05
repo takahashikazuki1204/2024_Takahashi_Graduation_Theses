@@ -77,6 +77,9 @@ INPUT chapters/introduction.aux
 INPUT ./chapters/sec2.aux
 INPUT ./chapters/sec2.aux
 INPUT chapters/sec2.aux
+INPUT ./chapters/MPA.aux
+INPUT ./chapters/MPA.aux
+INPUT chapters/MPA.aux
 INPUT ./chapters/conclusion.aux
 INPUT ./chapters/conclusion.aux
 INPUT chapters/conclusion.aux
@@ -144,6 +147,53 @@ INPUT ./chapters/sec2.tex
 INPUT chapters/sec2.tex
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./pic/MPA_kousei.png
+INPUT ./pic/MPA_kousei.png
+INPUT ./pic/MPA_kousei.png
+INPUT extractbb -B cropbox -O pic/MPA_kousei.png
+INPUT ./pic/MPA_dousa.png
+INPUT ./pic/MPA_dousa.png
+INPUT ./pic/MPA_dousa.png
+INPUT extractbb -B cropbox -O pic/MPA_dousa.png
+INPUT ./pic/A.PNG
+INPUT ./pic/A.PNG
+INPUT ./pic/A.PNG
+INPUT extractbb -B cropbox -O pic/A.PNG
+INPUT ./chapters/MPA.tex
+INPUT ./chapters/MPA.tex
+OUTPUT chapters/MPA.aux
+INPUT ./chapters/MPA.tex
+INPUT ./chapters/MPA.tex
+INPUT chapters/MPA.tex
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
+INPUT ./pic/kigu.PNG
+INPUT ./pic/kigu.PNG
+INPUT ./pic/kigu.PNG
+INPUT extractbb -B cropbox -O pic/kigu.PNG
+INPUT ./pic/tezyun.PNG
+INPUT ./pic/tezyun.PNG
+INPUT ./pic/tezyun.PNG
+INPUT extractbb -B cropbox -O pic/tezyun.PNG
+INPUT ./pic/balloon.jpg
+INPUT ./pic/balloon.jpg
+INPUT ./pic/balloon.jpg
+INPUT extractbb -B cropbox -O pic/balloon.jpg
+INPUT ./pic/tezyun2.PNG
+INPUT ./pic/tezyun2.PNG
+INPUT ./pic/tezyun2.PNG
+INPUT extractbb -B cropbox -O pic/tezyun2.PNG
+INPUT ./pic/kigu2.jpg
+INPUT ./pic/kigu2.jpg
+INPUT ./pic/kigu2.jpg
+INPUT extractbb -B cropbox -O pic/kigu2.jpg
+INPUT ./pic/tukau2.PNG
+INPUT ./pic/tukau2.PNG
+INPUT ./pic/tukau2.PNG
+INPUT extractbb -B cropbox -O pic/tukau2.PNG
+INPUT ./pic/tukau.jpg
+INPUT ./pic/tukau.jpg
+INPUT ./pic/tukau.jpg
+INPUT extractbb -B cropbox -O pic/tukau.jpg
 INPUT ./chapters/conclusion.tex
 INPUT ./chapters/conclusion.tex
 OUTPUT chapters/conclusion.aux
@@ -172,6 +222,9 @@ INPUT chapters/introduction.aux
 INPUT ./chapters/sec2.aux
 INPUT ./chapters/sec2.aux
 INPUT chapters/sec2.aux
+INPUT ./chapters/MPA.aux
+INPUT ./chapters/MPA.aux
+INPUT chapters/MPA.aux
 INPUT ./chapters/conclusion.aux
 INPUT ./chapters/conclusion.aux
 INPUT chapters/conclusion.aux
