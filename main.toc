@@ -7,5 +7,9 @@
 \contentsline {subsubsection}{\numberline {3.1.1}作製手順}{3}{}%
 \contentsline {subsubsection}{\numberline {3.1.2}問題点の改善}{3}{}%
 \contentsline {subsection}{\numberline {3.2}内径5 mmの人工筋肉の作製}{6}{}%
-\contentsline {section}{\numberline {4}結言}{8}{}%
-\contentsline {section}{\numberline {5}謝辞}{9}{}%
+\contentsline {subsection}{\numberline {3.3}内径3 mmの人工筋肉の作製}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}作製方法1}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}作製方法2}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}作製手順3}{9}{}%
+\contentsline {section}{\numberline {4}結言}{10}{}%
+\contentsline {section}{\numberline {5}謝辞}{11}{}%
