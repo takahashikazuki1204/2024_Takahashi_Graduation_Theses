@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.18)  6 FEB 2025 17:41
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.18)  7 FEB 2025 18:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -201,7 +201,7 @@ File: l3backend-dvips.def 2024-03-14 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count282
 \g__pdf_backend_link_int=\count283
 \g__pdf_backend_link_sf_int=\count284
-) (./main.aux (./chapters/abstract.aux) (./chapters/introduction.aux) (./chapters/sec2.aux) (./chapters/MPA.aux) (./chapters/conclusion.aux) (./chapters/acknowledgement.aux) (./chapters/bibliography.aux))
+) (./main.aux (./chapters/abstract.aux) (./chapters/introduction.aux) (./chapters/sec2.aux) (./chapters/MPA.aux) (./chapters/Evaluation experiment.aux) (./chapters/conclusion.aux) (./chapters/acknowledgement.aux) (./chapters/bibliography.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -316,6 +316,10 @@ File: pic/tezyun.PNG Graphic file (type bmp)
 File: pic/balloon.jpg Graphic file (type bmp)
 <pic/balloon.jpg>
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [3
@@ -323,15 +327,17 @@ Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
 
 ]
-File: pic/tezyun2.PNG Graphic file (type bmp)
-<pic/tezyun2.PNG>
+
+LaTeX Warning: Text page 4 contains only floats.
+
 
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [4]
-
-LaTeX Warning: Text page 5 contains only floats.
-
+File: pic/zu6.jpg Graphic file (type bmp)
+<pic/zu6.jpg>
+File: pic/zu5.jpg Graphic file (type bmp)
+<pic/zu5.jpg>
 
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
@@ -351,16 +357,32 @@ Overfull \vbox (16.5851pt too high) has occurred while \output is active []
  [7]
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [8])
+ [8]
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [9]
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [10])
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [11]
+\openout2 = `"chapters/Evaluation experiment.aux"'.
+
+ (./chapters/Evaluation experiment.tex)
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [12
+
+
+
+]
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex)
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [10
+ [13
 
 
 
@@ -370,7 +392,7 @@ Overfull \vbox (16.5851pt too high) has occurred while \output is active []
  (./chapters/acknowledgement.tex)
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [11
+ [14
 
 
 
@@ -384,11 +406,11 @@ LaTeX Warning: Empty `thebibliography' environment on input line 5.
 )
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [12
+ [15
 
 
 
-] (./main.aux (./chapters/abstract.aux) (./chapters/introduction.aux) (./chapters/sec2.aux) (./chapters/MPA.aux) (./chapters/conclusion.aux) (./chapters/acknowledgement.aux) (./chapters/bibliography.aux))
+] (./main.aux (./chapters/abstract.aux) (./chapters/introduction.aux) (./chapters/sec2.aux) (./chapters/MPA.aux) (./chapters/Evaluation experiment.aux) (./chapters/conclusion.aux) (./chapters/acknowledgement.aux) (./chapters/bibliography.aux))
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-11-01> patch level 1
@@ -400,12 +422,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3932 strings out of 474761
- 68666 string characters out of 5761786
+ 3963 strings out of 474761
+ 69857 string characters out of 5761786
  1927341 words of memory out of 5000000
- 26219 multiletter control sequences out of 15000+600000
+ 26242 multiletter control sequences out of 15000+600000
  572718 words of font info for 92 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 67i,11n,77p,490b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,11n,77p,490b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (15 pages, 33160 bytes).
+Output written on main.dvi (18 pages, 42680 bytes).

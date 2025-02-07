@@ -5,11 +5,17 @@
 \contentsline {section}{\numberline {3}細径MPAの開発}{3}{}%
 \contentsline {subsection}{\numberline {3.1}風船作製}{3}{}%
 \contentsline {subsubsection}{\numberline {3.1.1}作製手順}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}問題点の改善}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}問題点の改善}{5}{}%
 \contentsline {subsection}{\numberline {3.2}内径5 mmの人工筋肉の作製}{6}{}%
 \contentsline {subsection}{\numberline {3.3}内径3 mmの人工筋肉の作製}{8}{}%
 \contentsline {subsubsection}{\numberline {3.3.1}作製方法1}{8}{}%
 \contentsline {subsubsection}{\numberline {3.3.2}作製方法2}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}作製手順3}{9}{}%
-\contentsline {section}{\numberline {4}結言}{10}{}%
-\contentsline {section}{\numberline {5}謝辞}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}作製方法3}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}作製方法4}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}作製方法5}{11}{}%
+\contentsline {section}{\numberline {4}評価実験}{12}{}%
+\contentsline {subsection}{\numberline {4.1}収縮率}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}内径5 mmの測定}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}内径3 mmの測定}{12}{}%
+\contentsline {section}{\numberline {5}結言}{13}{}%
+\contentsline {section}{\numberline {6}謝辞}{14}{}%

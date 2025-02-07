@@ -80,6 +80,9 @@ INPUT chapters/sec2.aux
 INPUT ./chapters/MPA.aux
 INPUT ./chapters/MPA.aux
 INPUT chapters/MPA.aux
+INPUT ./chapters/Evaluation experiment.aux
+INPUT ./chapters/Evaluation experiment.aux
+INPUT chapters/Evaluation experiment.aux
 INPUT ./chapters/conclusion.aux
 INPUT ./chapters/conclusion.aux
 INPUT chapters/conclusion.aux
@@ -178,10 +181,14 @@ INPUT ./pic/balloon.jpg
 INPUT ./pic/balloon.jpg
 INPUT ./pic/balloon.jpg
 INPUT extractbb -B cropbox -O pic/balloon.jpg
-INPUT ./pic/tezyun2.PNG
-INPUT ./pic/tezyun2.PNG
-INPUT ./pic/tezyun2.PNG
-INPUT extractbb -B cropbox -O pic/tezyun2.PNG
+INPUT ./pic/zu6.jpg
+INPUT ./pic/zu6.jpg
+INPUT ./pic/zu6.jpg
+INPUT extractbb -B cropbox -O pic/zu6.jpg
+INPUT ./pic/zu5.jpg
+INPUT ./pic/zu5.jpg
+INPUT ./pic/zu5.jpg
+INPUT extractbb -B cropbox -O pic/zu5.jpg
 INPUT ./pic/kigu2.jpg
 INPUT ./pic/kigu2.jpg
 INPUT ./pic/kigu2.jpg
@@ -194,6 +201,12 @@ INPUT ./pic/tukau.jpg
 INPUT ./pic/tukau.jpg
 INPUT ./pic/tukau.jpg
 INPUT extractbb -B cropbox -O pic/tukau.jpg
+INPUT ./chapters/Evaluation experiment.tex
+INPUT ./chapters/Evaluation experiment.tex
+OUTPUT chapters/Evaluation experiment.aux
+INPUT ./chapters/Evaluation experiment.tex
+INPUT ./chapters/Evaluation experiment.tex
+INPUT chapters/Evaluation experiment.tex
 INPUT ./chapters/conclusion.tex
 INPUT ./chapters/conclusion.tex
 OUTPUT chapters/conclusion.aux
@@ -225,6 +238,9 @@ INPUT chapters/sec2.aux
 INPUT ./chapters/MPA.aux
 INPUT ./chapters/MPA.aux
 INPUT chapters/MPA.aux
+INPUT ./chapters/Evaluation experiment.aux
+INPUT ./chapters/Evaluation experiment.aux
+INPUT chapters/Evaluation experiment.aux
 INPUT ./chapters/conclusion.aux
 INPUT ./chapters/conclusion.aux
 INPUT chapters/conclusion.aux
