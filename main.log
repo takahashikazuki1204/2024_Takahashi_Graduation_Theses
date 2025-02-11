@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.18)  7 FEB 2025 18:32
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.18)  11 FEB 2025 19:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -276,29 +276,24 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 3.
+
+
+LaTeX Warning: Citation `1' on page 2 undefined on input line 5.
+
+
+LaTeX Warning: Citation `2' on page 2 undefined on input line 7.
+
 File: pic/MPA_kousei.png Graphic file (type bmp)
 <pic/MPA_kousei.png>
 File: pic/MPA_dousa.png Graphic file (type bmp)
 <pic/MPA_dousa.png>
 
-
-LaTeX Warning: Citation `中西大輔2020' on page 2 undefined on input line 28.
-
-
-LaTeX Warning: Citation `中西大輔2020' on page 2 undefined on input line 28.
-
-File: pic/A.PNG Graphic file (type bmp)
-<pic/A.PNG>
-
-LaTeX Warning: Citation `4' on page 2 undefined on input line 34.
+LaTeX Warning: Citation `中西大輔2020' on page 2 undefined on input line 30.
 
 
-LaTeX Warning: Citation `4' on page 2 undefined on input line 34.
+LaTeX Warning: Citation `中西大輔2020' on page 2 undefined on input line 30.
 
 
-LaTeX Warning: Citation `3' on page 2 undefined on input line 41.
-
-)
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [2
@@ -306,9 +301,41 @@ Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
 
 ]
+
+LaTeX Warning: Citation `3' on page 3 undefined on input line 39.
+
+File: pic/A.PNG Graphic file (type bmp)
+<pic/A.PNG>
+
+LaTeX Warning: Citation `4' on page 3 undefined on input line 44.
+
+
+LaTeX Warning: Citation `4' on page 3 undefined on input line 44.
+
+)
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [3]
 \openout2 = `chapters/MPA.aux'.
 
  (./chapters/MPA.tex
+
+LaTeX Warning: Citation `4' on page 4 undefined on input line 7.
+
+
+LaTeX Warning: Citation `5' on page 4 undefined on input line 10.
+
+
+LaTeX Warning: Citation `6' on page 4 undefined on input line 15.
+
+
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [4
+
+
+
+]
 File: pic/kigu.PNG Graphic file (type bmp)
 <pic/kigu.PNG>
 File: pic/tezyun.PNG Graphic file (type bmp)
@@ -316,38 +343,22 @@ File: pic/tezyun.PNG Graphic file (type bmp)
 File: pic/balloon.jpg Graphic file (type bmp)
 <pic/balloon.jpg>
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [3
+ [5]
+File: pic/5.jpg Graphic file (type bmp)
+<pic/5.jpg>
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-]
-
-LaTeX Warning: Text page 4 contains only floats.
-
-
-Overfull \vbox (16.5851pt too high) has occurred while \output is active []
-
- [4]
 File: pic/zu6.jpg Graphic file (type bmp)
 <pic/zu6.jpg>
 File: pic/zu5.jpg Graphic file (type bmp)
 <pic/zu5.jpg>
 
-Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- [5]
-File: pic/kigu2.jpg Graphic file (type bmp)
-<pic/kigu2.jpg>
-File: pic/tukau2.PNG Graphic file (type bmp)
-<pic/tukau2.PNG>
-File: pic/tukau.jpg Graphic file (type bmp)
-<pic/tukau.jpg>
 
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
@@ -355,34 +366,157 @@ Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [7]
+File: pic/tezyun2.PNG Graphic file (type bmp)
+<pic/tezyun2.PNG>
+File: pic/10.jpg Graphic file (type bmp)
+<pic/10.jpg>
+
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [8]
+File: pic/kigu2.jpg Graphic file (type bmp)
+<pic/kigu2.jpg>
+File: pic/5mm.PNG Graphic file (type bmp)
+<pic/5mm.PNG>
+File: pic/tukau2.PNG Graphic file (type bmp)
+<pic/tukau2.PNG>
+File: pic/tukau.jpg Graphic file (type bmp)
+<pic/tukau.jpg>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [9]
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [10])
+ [10]
+File: pic/14.PNG Graphic file (type bmp)
+<pic/14.PNG>
+File: pic/16.jpg Graphic file (type bmp)
+<pic/16.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
  [11]
-\openout2 = `"chapters/Evaluation experiment.aux"'.
+File: pic/ww.jpg Graphic file (type bmp)
+<pic/ww.jpg>
 
- (./chapters/Evaluation experiment.tex)
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [12
+ [12]
+File: pic/setu.PNG Graphic file (type bmp)
+<pic/setu.PNG>
+File: pic/S__157270018.jpg Graphic file (type bmp)
+<pic/S__157270018.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: pic/17.jpg Graphic file (type bmp)
+<pic/17.jpg>
+File: pic/18.PNG Graphic file (type bmp)
+<pic/18.PNG>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [13]
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [14]
+File: pic/19.jpg Graphic file (type bmp)
+<pic/19.jpg>
+File: pic/19.PNG Graphic file (type bmp)
+<pic/19.PNG>
+File: pic/20.jpg Graphic file (type bmp)
+<pic/20.jpg>
+File: pic/21.PNG Graphic file (type bmp)
+<pic/21.PNG>
+
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [15]
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [16]
+File: pic/2211.PNG Graphic file (type bmp)
+<pic/2211.PNG>
+File: pic/24.PNG Graphic file (type bmp)
+<pic/24.PNG>
+
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [17]
+File: pic/25.jpg Graphic file (type bmp)
+<pic/25.jpg>
+File: pic/26.jpg Graphic file (type bmp)
+<pic/26.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: pic/mawa.PNG Graphic file (type bmp)
+<pic/mawa.PNG>
+
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [18]
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [19]
+File: pic/ten.PNG Graphic file (type bmp)
+<pic/ten.PNG>
+File: pic/2sou.jpg Graphic file (type bmp)
+<pic/2sou.jpg>
+File: pic/kutu.jpg Graphic file (type bmp)
+<pic/kutu.jpg>
+)
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [20]
+\openout2 = `"chapters/Evaluation experiment.aux"'.
+
+ (./chapters/Evaluation experiment.tex
+File: pic/oiru.PNG Graphic file (type bmp)
+<pic/oiru.PNG>
+File: pic/D.jpg Graphic file (type bmp)
+<pic/D.jpg>
+File: pic/E.jpg Graphic file (type bmp)
+<pic/E.jpg>
+
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [21
 
 
 
 ]
+File: pic/M.jpg Graphic file (type bmp)
+<pic/M.jpg>
+File: pic/L.jpg Graphic file (type bmp)
+<pic/L.jpg>
+)
+Overfull \vbox (16.5851pt too high) has occurred while \output is active []
+
+ [22]
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex)
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [13
+ [23
 
 
 
@@ -392,7 +526,7 @@ Overfull \vbox (16.5851pt too high) has occurred while \output is active []
  (./chapters/acknowledgement.tex)
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [14
+ [24
 
 
 
@@ -406,7 +540,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 5.
 )
 Overfull \vbox (16.5851pt too high) has occurred while \output is active []
 
- [15
+ [25
 
 
 
@@ -422,12 +556,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3963 strings out of 474761
- 69857 string characters out of 5761786
- 1927341 words of memory out of 5000000
- 26242 multiletter control sequences out of 15000+600000
+ 4170 strings out of 474761
+ 72955 string characters out of 5761786
+ 1928341 words of memory out of 5000000
+ 26422 multiletter control sequences out of 15000+600000
  572718 words of font info for 92 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 67i,11n,77p,490b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,12n,77p,490b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (18 pages, 42680 bytes).
+Output written on main.dvi (28 pages, 56084 bytes).

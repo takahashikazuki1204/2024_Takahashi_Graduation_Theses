@@ -181,6 +181,10 @@ INPUT ./pic/balloon.jpg
 INPUT ./pic/balloon.jpg
 INPUT ./pic/balloon.jpg
 INPUT extractbb -B cropbox -O pic/balloon.jpg
+INPUT ./pic/5.jpg
+INPUT ./pic/5.jpg
+INPUT ./pic/5.jpg
+INPUT extractbb -B cropbox -O pic/5.jpg
 INPUT ./pic/zu6.jpg
 INPUT ./pic/zu6.jpg
 INPUT ./pic/zu6.jpg
@@ -189,10 +193,22 @@ INPUT ./pic/zu5.jpg
 INPUT ./pic/zu5.jpg
 INPUT ./pic/zu5.jpg
 INPUT extractbb -B cropbox -O pic/zu5.jpg
+INPUT ./pic/tezyun2.PNG
+INPUT ./pic/tezyun2.PNG
+INPUT ./pic/tezyun2.PNG
+INPUT extractbb -B cropbox -O pic/tezyun2.PNG
+INPUT ./pic/10.jpg
+INPUT ./pic/10.jpg
+INPUT ./pic/10.jpg
+INPUT extractbb -B cropbox -O pic/10.jpg
 INPUT ./pic/kigu2.jpg
 INPUT ./pic/kigu2.jpg
 INPUT ./pic/kigu2.jpg
 INPUT extractbb -B cropbox -O pic/kigu2.jpg
+INPUT ./pic/5mm.PNG
+INPUT ./pic/5mm.PNG
+INPUT ./pic/5mm.PNG
+INPUT extractbb -B cropbox -O pic/5mm.PNG
 INPUT ./pic/tukau2.PNG
 INPUT ./pic/tukau2.PNG
 INPUT ./pic/tukau2.PNG
@@ -201,12 +217,107 @@ INPUT ./pic/tukau.jpg
 INPUT ./pic/tukau.jpg
 INPUT ./pic/tukau.jpg
 INPUT extractbb -B cropbox -O pic/tukau.jpg
+INPUT ./pic/14.PNG
+INPUT ./pic/14.PNG
+INPUT ./pic/14.PNG
+INPUT extractbb -B cropbox -O pic/14.PNG
+INPUT ./pic/16.jpg
+INPUT ./pic/16.jpg
+INPUT ./pic/16.jpg
+INPUT extractbb -B cropbox -O pic/16.jpg
+INPUT ./pic/ww.jpg
+INPUT ./pic/ww.jpg
+INPUT ./pic/ww.jpg
+INPUT extractbb -B cropbox -O pic/ww.jpg
+INPUT ./pic/setu.PNG
+INPUT ./pic/setu.PNG
+INPUT ./pic/setu.PNG
+INPUT extractbb -B cropbox -O pic/setu.PNG
+INPUT ./pic/S__157270018.jpg
+INPUT ./pic/S__157270018.jpg
+INPUT ./pic/S__157270018.jpg
+INPUT extractbb -B cropbox -O pic/S__157270018.jpg
+INPUT ./pic/17.jpg
+INPUT ./pic/17.jpg
+INPUT ./pic/17.jpg
+INPUT extractbb -B cropbox -O pic/17.jpg
+INPUT ./pic/18.PNG
+INPUT ./pic/18.PNG
+INPUT ./pic/18.PNG
+INPUT extractbb -B cropbox -O pic/18.PNG
+INPUT ./pic/19.jpg
+INPUT ./pic/19.jpg
+INPUT ./pic/19.jpg
+INPUT extractbb -B cropbox -O pic/19.jpg
+INPUT ./pic/19.PNG
+INPUT ./pic/19.PNG
+INPUT ./pic/19.PNG
+INPUT ./pic/20.jpg
+INPUT ./pic/20.jpg
+INPUT ./pic/20.jpg
+INPUT extractbb -B cropbox -O pic/20.jpg
+INPUT ./pic/21.PNG
+INPUT ./pic/21.PNG
+INPUT ./pic/21.PNG
+INPUT extractbb -B cropbox -O pic/21.PNG
+INPUT ./pic/2211.PNG
+INPUT ./pic/2211.PNG
+INPUT ./pic/2211.PNG
+INPUT extractbb -B cropbox -O pic/2211.PNG
+INPUT ./pic/24.PNG
+INPUT ./pic/24.PNG
+INPUT ./pic/24.PNG
+INPUT extractbb -B cropbox -O pic/24.PNG
+INPUT ./pic/25.jpg
+INPUT ./pic/25.jpg
+INPUT ./pic/25.jpg
+INPUT extractbb -B cropbox -O pic/25.jpg
+INPUT ./pic/26.jpg
+INPUT ./pic/26.jpg
+INPUT ./pic/26.jpg
+INPUT extractbb -B cropbox -O pic/26.jpg
+INPUT ./pic/mawa.PNG
+INPUT ./pic/mawa.PNG
+INPUT ./pic/mawa.PNG
+INPUT extractbb -B cropbox -O pic/mawa.PNG
+INPUT ./pic/ten.PNG
+INPUT ./pic/ten.PNG
+INPUT ./pic/ten.PNG
+INPUT extractbb -B cropbox -O pic/ten.PNG
+INPUT ./pic/2sou.jpg
+INPUT ./pic/2sou.jpg
+INPUT ./pic/2sou.jpg
+INPUT extractbb -B cropbox -O pic/2sou.jpg
+INPUT ./pic/kutu.jpg
+INPUT ./pic/kutu.jpg
+INPUT ./pic/kutu.jpg
+INPUT extractbb -B cropbox -O pic/kutu.jpg
 INPUT ./chapters/Evaluation experiment.tex
 INPUT ./chapters/Evaluation experiment.tex
 OUTPUT chapters/Evaluation experiment.aux
 INPUT ./chapters/Evaluation experiment.tex
 INPUT ./chapters/Evaluation experiment.tex
 INPUT chapters/Evaluation experiment.tex
+INPUT ./pic/oiru.PNG
+INPUT ./pic/oiru.PNG
+INPUT ./pic/oiru.PNG
+INPUT extractbb -B cropbox -O pic/oiru.PNG
+INPUT ./pic/D.jpg
+INPUT ./pic/D.jpg
+INPUT ./pic/D.jpg
+INPUT extractbb -B cropbox -O pic/D.jpg
+INPUT ./pic/E.jpg
+INPUT ./pic/E.jpg
+INPUT ./pic/E.jpg
+INPUT extractbb -B cropbox -O pic/E.jpg
+INPUT ./pic/M.jpg
+INPUT ./pic/M.jpg
+INPUT ./pic/M.jpg
+INPUT extractbb -B cropbox -O pic/M.jpg
+INPUT ./pic/L.jpg
+INPUT ./pic/L.jpg
+INPUT ./pic/L.jpg
+INPUT extractbb -B cropbox -O pic/L.jpg
 INPUT ./chapters/conclusion.tex
 INPUT ./chapters/conclusion.tex
 OUTPUT chapters/conclusion.aux
