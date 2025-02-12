@@ -1,4 +1,4 @@
-\documentclass[11pt]{jarticle}
+\documentclass[11pt, dvipdfmx]{jarticle}
 
 \usepackage[dvipdfmx]{graphicx}
 \usepackage{sty/fancyheadings}
@@ -12,7 +12,8 @@
 \pagestyle{empty}
 \usepackage{bm}
 \usepackage{comment}
-\linesparpage{40}
+\usepackage{pdfpages}
+\linesparpage{40} 
 %\makeatletter
 %\renewcommand{\theequation}{
 %\thesection.\arabic{equation}}
@@ -44,7 +45,7 @@
 
 \maketitle
 \end{comment}
-
+\includepdf[pages=-]{hyosi.pdf}
 \thispagestyle{empty}
 \include{chapters/abstract}        % 概要
 

@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{Hauser}
+Helmut Hauser.
+\newblock Soft robotics: An introduction to the special issue.
+\newblock {\em IEEE Control Systems Magazine}, Vol.~43, No.~3, pp. 28--29, 2023.
+
+\bibitem{11}
+鈴森康一.
+\newblock 細径人工筋が切り拓くソフトロボティクス.
+\newblock 計測と制御, Vol.~56, No.~4, pp. 243--247, 2017.
+
+\bibitem{mi14071431}
+Mahmoud Elsamanty, Mohamed~A. Hassaan, Mostafa Orban, Kai Guo, Hongbo Yang, Saber Abdrabbo, and Mohamed Selmy.
+\newblock Soft pneumatic muscles: Revolutionizing human assistive devices with geometric design and intelligent control.
+\newblock {\em Micromachines}, Vol.~14, No.~7, 2023.
+
+\bibitem{22}
+中西大輔, 長谷川侑大, 浪花啓右, 杉本靖博.
+\newblock 細径空圧筋を用いた羽状筋および外骨格生物模倣ロボットの開発.
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2024, pp. 2A1--L08, 2024.
+
+\bibitem{Yu22}
+Daoxiong Gong and Jianjun Yu.
+\newblock Design and control of the mckibben artificial muscles actuated humanoid manipulator.
+\newblock In Adrian Olaru, editor, {\em Rehabilitation of the Human Bone-Muscle System}, chapter~3. IntechOpen, Rijeka, 2022.
+
+\bibitem{7989580}
+Jonathan~P. King, Luis~E. Valle, Nishant Pol, and Yong-Lae Park.
+\newblock Design, modeling, and control of pneumatic artificial muscles with integrated soft sensing.
+\newblock In {\em 2017 IEEE International Conference on Robotics and Automation (ICRA)}, pp. 4985--4990, 2017.
+
+\end{thebibliography}
