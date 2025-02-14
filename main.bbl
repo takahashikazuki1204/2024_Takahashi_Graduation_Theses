@@ -5,6 +5,11 @@ Helmut Hauser.
 \newblock Soft robotics: An introduction to the special issue.
 \newblock {\em IEEE Control Systems Magazine}, Vol.~43, No.~3, pp. 28--29, 2023.
 
+\bibitem{21}
+森田隆介, 鈴森康一, 車谷駿一.
+\newblock 細径マッキベン人工筋を用いた筋骨格ロボットの歩行動作実現.
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2016, pp. 2P2--12a3, 2016.
+
 \bibitem{11}
 鈴森康一.
 \newblock 細径人工筋が切り拓くソフトロボティクス.
@@ -29,5 +34,15 @@ Daoxiong Gong and Jianjun Yu.
 Jonathan~P. King, Luis~E. Valle, Nishant Pol, and Yong-Lae Park.
 \newblock Design, modeling, and control of pneumatic artificial muscles with integrated soft sensing.
 \newblock In {\em 2017 IEEE International Conference on Robotics and Automation (ICRA)}, pp. 4985--4990, 2017.
+
+\bibitem{90}
+中村太郎.
+\newblock 高出力型空気圧人工筋肉の開発.
+\newblock \url{https://www.mech.chuo-u.ac.jp/~nakalab/study/artificialmuscle/artificialmuscle.html}, 閲覧日 2025/2/13.
+
+\bibitem{91}
+SCIENCE CHANNEL（JST）.
+\newblock The making(302)ゴム風船ができるまで.
+\newblock \url{https://youtu.be/3yYwWfcS61A}, 閲覧日 2025/2/13.
 
 \end{thebibliography}

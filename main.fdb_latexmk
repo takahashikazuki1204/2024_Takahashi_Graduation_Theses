@@ -1,0 +1,14 @@
+# Fdb version 4
+["dvipdf"] 0 "main.dvi" "main.pdf" "main" 0 -1
+  "main.dvi" 0 -1 0 "latex"
+  (generated)
+  "main.pdf"
+  (rewritten before read)
+["latex"] 0 "c:/Users/takahashikazuki/Desktop/2024_Takahashi_graduation_Theses/main.tex" "main.dvi" "main" 0 -1
+  "c:/Users/takahashikazuki/Desktop/2024_Takahashi_graduation_Theses/main.tex" 0 -1 0 ""
+  "main.aux" 0 -1 0 "latex"
+  (generated)
+  "main.aux"
+  "main.dvi"
+  "main.log"
+  (rewritten before read)
